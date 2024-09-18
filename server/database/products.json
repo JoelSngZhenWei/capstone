@@ -1,0 +1,141 @@
+{
+    "OCBCProducts": {
+      "savingsAccounts": [
+        {
+          "productId": "SA001",
+          "productName": "OCBC 360 Savings Account",
+          "productType": "Savings Account",
+          "interestRate": "Up to 4.65% p.a.",
+          "features": [
+            "Earn bonus interest on salary crediting, bill payments, and card spending",
+            "No minimum monthly balance fee",
+            "24/7 online and mobile banking access"
+          ],
+          "eligibility": {
+            "minAge": 18,
+            "residency": "Singapore Citizen or PR"
+          }
+        },
+        {
+          "productId": "SA002",
+          "productName": "OCBC Premier Dividend+ Savings Account",
+          "productType": "Savings Account",
+          "interestRate": "Up to 3.25% p.a.",
+          "features": [
+            "Monthly interest payout",
+            "Dedicated Relationship Manager",
+            "Personalized wealth advisory"
+          ],
+          "eligibility": {
+            "minAge": 21,
+            "residency": "Singapore Citizen, PR, or Foreigner"
+          }
+        },
+        {
+          "productId": "SA003",
+          "productName": "OCBC Mighty Savers Account",
+          "productType": "Savings Account",
+          "interestRate": "Up to 0.80% p.a.",
+          "features": [
+            "Higher interest rates for regular savings",
+            "No minimum monthly balance",
+            "Special rewards for young savers"
+          ],
+          "eligibility": {
+            "minAge": 0,
+            "maxAge": 16,
+            "residency": "Singapore Citizen or PR"
+          }
+        }
+      ],
+      "depositAccounts": [
+        {
+          "productId": "DA001",
+          "productName": "OCBC Fixed Deposit Account",
+          "productType": "Deposit Account",
+          "interestRate": "Up to 1.70% p.a.",
+          "features": [
+            "Flexible tenures from 1 month to 36 months",
+            "Minimum deposit of SGD 5,000",
+            "Guaranteed returns with fixed interest rates"
+          ],
+          "eligibility": {
+            "minAge": 18,
+            "residency": "Singapore Citizen, PR, or Foreigner"
+          }
+        },
+        {
+          "productId": "DA002",
+          "productName": "OCBC Monthly Savings Deposit Account",
+          "productType": "Deposit Account",
+          "interestRate": "Up to 0.40% p.a.",
+          "features": [
+            "Save with fixed monthly contributions",
+            "No penalty for missed contributions",
+            "Bonus interest for consistent savings"
+          ],
+          "eligibility": {
+            "minAge": 18,
+            "residency": "Singapore Citizen or PR"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "productId": "CC001",
+          "productName": "OCBC FRANK Credit Card",
+          "productType": "Credit Card",
+          "interestRate": "26.88% p.a.",
+          "features": [
+            "Up to 6% cashback on online shopping and entertainment",
+            "1% cashback on all other retail spends",
+            "No annual fee for the first two years"
+          ],
+          "eligibility": {
+            "minIncome": {
+              "Singaporean": 30000,
+              "Foreigner": 45000
+            },
+            "minAge": 21
+          }
+        },
+        {
+          "productId": "CC002",
+          "productName": "OCBC 365 Credit Card",
+          "productType": "Credit Card",
+          "interestRate": "25.92% p.a.",
+          "features": [
+            "5% cashback on dining and groceries",
+            "3% cashback on online spending",
+            "1% cashback on all other spend"
+          ],
+          "eligibility": {
+            "minIncome": {
+              "Singaporean": 30000,
+              "Foreigner": 45000
+            },
+            "minAge": 21
+          }
+        },
+        {
+          "productId": "CC003",
+          "productName": "OCBC Cashflo Credit Card",
+          "productType": "Credit Card",
+          "interestRate": "26.88% p.a.",
+          "features": [
+            "Automatic monthly installment payment plan",
+            "0% interest rate for up to 6 months",
+            "1% cashback on all spend"
+          ],
+          "eligibility": {
+            "minIncome": {
+              "Singaporean": 30000,
+              "Foreigner": 45000
+            },
+            "minAge": 21
+          }
+        }
+      ]
+    }
+  }
+  
